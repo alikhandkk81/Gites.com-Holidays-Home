@@ -4,4 +4,4 @@ full data from gites.com more then 570 home stays information datas scraped.
 
 
 
-![](gates.com.png)
+![](gites.com.png)
